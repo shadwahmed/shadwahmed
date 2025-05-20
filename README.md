@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Shadw Ahmed, a dedicated Flutter Developer with a background in computer science and a passion for building seamless, high-performance mobile applications.<br>- 🔭🔭 I’m currently working on :<br>Developing innovative mobile applications with creative UI and well-structured architecture.<br>- 📚  I’m currently learning : <br>Improving performance and optimizing state management in complex Flutter applications, as well as expanding my knowledge of clean architecture patterns.</p>
+<p align="left">👋 Hi, I'm Shadw Ahmed, a dedicated Flutter Developer with a background in computer science and a passion for building seamless, high-performance mobile applications.<br>- 🔭 I’m currently working on :<br>Developing innovative mobile applications with creative UI and well-structured architecture.<br>- 📚  I’m currently learning : <br>Improving performance and optimizing state management in complex Flutter applications, as well as expanding my knowledge of clean architecture patterns.</p>
 
 ###
 
-<h4 align="left">🛠Connect with me:</h4>
+<h3 align="left">🛠Connect with me :</h3>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h4 align="left">👩‍💻  Tech Stack:</h4>
+<h3 align="left">👩‍💻  Tech Stack :</h3>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h4 align="left">🔥   GitHub Stats :</h4>
+<h3 align="left">🔥   GitHub Stats :</h3>
 
 ###
 
